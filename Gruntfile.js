@@ -7,7 +7,7 @@ module.exports = function(grunt) {
                     expand: true,
                     cwd: 'sass',
                     src: ['*.scss'],
-                    dest: '../condorGaming/css/',
+                    dest: '../condorGamingAssignment/css/',
                     ext: '.css'
                 }]
             }
